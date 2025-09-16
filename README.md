@@ -1,5 +1,7 @@
 # ChartDash - React Dashboard with Chart.js
 
+http://reactdashboardharshomar.netlify.app
+
 A modern **React dashboard** application built with **Vite**, **Tailwind CSS**, and **Chart.js** for interactive data visualization. Perfect for creating dashboards with responsive charts and clean UI.
 
 ## Features
