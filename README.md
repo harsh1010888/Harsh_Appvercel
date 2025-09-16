@@ -24,11 +24,7 @@ A modern **React dashboard** application built with **Vite**, **Tailwind CSS**, 
 - **Node.js** (v20.19+ or v22.12+)  
 - **npm** or **yarn**  
 
-### Installation
-1. Clone the repository:  
-   ```bash
-   git clone <repository-url>
-   cd chartdash
+
 
 
 ### Project Structure 
